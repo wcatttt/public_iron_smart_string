@@ -16,6 +16,8 @@
 	- [bbb](#bbb) -->
 # README 项目说明  
 [一、项目构成](#heading-one)  
-    [(1)嵌入式部分](#embedded)  
+    [(1)嵌入式部分](#MUC)  
     [(2)信息接受与处理部分](#main_and_date)  
     [(3)web端](#web)  
+# 安装与运行环境
+[一、嵌入式环境说明](#MUC_include)
