@@ -16,8 +16,10 @@
 	- [bbb](#bbb) -->
 # README 项目说明  
 [一、项目构成](#heading-one)  
-    [(1)嵌入式部分](#MUC)  
+    [(1)嵌入式部分](#MCU)  
     [(2)信息接受与处理部分](#main_and_date)  
     [(3)web端](#web)  
 # 安装与运行环境
-[一、嵌入式环境说明](#MUC_include)
+[一、嵌入式环境说明](#MCU_include)
+[二、基于python的应用程序说明](#main_date_include)
+[三、基于web的应用程序说明](#web_include)
